@@ -1,6 +1,4 @@
-### Bem Vindos ao meu Perfil! 🤓
-
-Meu nome é **Cicero Isaac**
+###Olá, Eu Sou Cícero Isaac, seja bem vindo ao meu perfil!
 
 Possuo competências como:
 
@@ -17,6 +15,11 @@ Possuo competências como:
 Em desenvolvimento com as linguagens Python e JS
 
 Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSousa2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Você pode entrar em contato comigo através de: 📫
 
