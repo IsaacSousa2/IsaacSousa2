@@ -21,3 +21,6 @@ Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
 ### Você pode entrar em contato comigo através de: 📫
 
 ciceroisaacsc@gmail.com
+
+  <a href="https://instagram.com/isaacsz_7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
