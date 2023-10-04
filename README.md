@@ -1,6 +1,10 @@
 ### Olá, Eu Sou Cícero Isaac, seja bem vindo ao meu perfil!🤓
 
+Em desenvolvimento com as linguagens PY e JS
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSousa2&show_icons=true&theme=tokyonight">
+
+Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
 
 Possuo competências como:
 
@@ -23,10 +27,6 @@ Possuo competências como:
 -Monitoria de Matemática e inglês(Base Comum)📚
 
 -Curso Fábrica de Programadores📚
-
-Em desenvolvimento com as linguagens Python e JS
-
-Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
