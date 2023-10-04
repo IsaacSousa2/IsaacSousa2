@@ -7,7 +7,7 @@ Possuo competências como:
 -Ensino Médio 2/3📚
 -Curso Téc. Informática📚
 -Curso de Empreendedorismo📚
--Curso de Introdução ao Front End📚
+-Curso de Front End📚
 -Mini Curso de Design Gráfico📚
 -Monitoria Geral em matérias da Base Técnica📚
 -Monitoria de Matemática e inglês(Base Comum)📚
