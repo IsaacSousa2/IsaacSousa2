@@ -20,6 +20,8 @@ Possuo competências como:
 
 -Monitoria de Matemática e inglês(Base Comum)📚
 
+-Curso Fábrica de Programadores📚
+
 Em desenvolvimento com as linguagens Python e JS
 
 Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
