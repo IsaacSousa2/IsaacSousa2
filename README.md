@@ -1,5 +1,6 @@
 ### Olá, Eu Sou Cícero Isaac, seja bem vindo ao meu perfil!🤓
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSousa2&show_icons=true&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSousa2&show_icons=true&theme=tokyonight"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBack77&layout=compact&show_icons=true&theme=tokyonight">
+
 
 Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
 
