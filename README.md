@@ -7,7 +7,7 @@ Building software with React, Next.js and Node.js.
 ## ⚡ Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,mysql,tailwind,firebase,figma,git,github,vscode" />
+ <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,mysql,tailwind,firebase,figma" />
 </p>
 
 ## 🚀 Featured Projects
