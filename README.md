@@ -1,8 +1,7 @@
-### Olá, Eu Sou Cícero Isaac, seja bem vindo ao meu perfil!🤓
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSousa2&layout=compact&show_icons=true&theme=tokyonight">
+# Cícero Isaac
 
-
-Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
+Computer Science @ UFCA
+Building software, solving problems and learning every day.
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -19,10 +18,9 @@ Ultilizo esse espaço para organização e compartilhamento dos meus projetos.
   
  </div>
  
-### Você pode entrar em contato comigo através de: 📫
+### Contact: 📫
 
 <a href = "mailto:ciceroisaacsc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/isaacsz_7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isaac-sousa-a57b7a259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
